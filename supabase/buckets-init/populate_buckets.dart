@@ -1,7 +1,6 @@
 import 'dart:async';
 import 'dart:io';
 import 'package:supabase/supabase.dart';
-import 'package:dart_dotenv/dart_dotenv.dart';
 import 'package:path/path.dart' as p;
 
 void main() async {
